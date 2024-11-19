@@ -1,0 +1,26 @@
+region_code_iso3166_2,region_code_iso3166_2_alpha3,region_code_iso3166_1,region_code_iso3166_1_alpha3,region_code_hmd,region_name,region_name_short,region_level,country_name,hemisphere,continent,who_code
+AU,AUS,AU,AUS,AUS,Australia,AUS,0,Australia,s,Oceania,5020
+AT,AUT,AT,AUT,AUT,Austria,AUT,0,Austria,n,Europe,4010
+BR,BRA,BR,BRA,.,Brazil,BRA,0,Brazil,s,South America,2070
+BG,BGR,BG,BGR,BGR,Bulgaria,BGR,0,Bulgaria,n,Europe,4030
+CA,CAN,CA,CAN,CAN,Canada,CAN,0,Canada,n,North America,2090
+CL,CHL,CL,CHL,CHL,Chile,CHL,0,Chile,s,South America,2120
+HR,HRV,HR,HRV,HRV,Croatia,HRV,0,Croatia,n,Europe,4038
+CZ,CZE,CZ,CZE,CZE,Czech Republic,CZE,0,Czech Republic,n,Europe,4045
+DK,DNK,DK,DNK,DNK,Denmark,DNK,0,Denmark,n,Europe,4050
+HU,HUN,HU,HUN,HUN,Hungary,HUN,0,Hungary,n,Europe,4150
+JP,JPN,JP,JPN,JPN,Japan,JPN,0,Japan,n,Asia,3160
+LV,LVA,LV,LVA,LVA,Latvia,LVA,0,Latvia,n,Europe,4186
+LT,LTU,LT,LTU,LTU,Lithuania,LTU,0,Lithuania,n,Europe,4188
+LU,LUX,LU,LUX,LUX,Luxembourg,LUX,0,Luxembourg,n,Europe,4190
+NL,NLD,NL,NLD,NLD,Netherlands,NLD,0,Netherlands,n,Europe,4210
+PL,POL,PL,POL,POL,Poland,POL,0,Poland,n,Europe,4230
+KR,KOR,KR,KOR,KOR,South Korea,KOR,0,South Korea,n,Asia,3325
+SG,SGP,SG,SGP,.,Singapore,SGP,0,Singapore,n,Asia,3350
+ES,ESP,ES,ESP,ESP,Spain,ESP,0,Spain,n,Europe,4280
+SE,SWE,SE,SWE,SWE,Sweden,SWE,0,Sweden,n,Europe,4290
+CH,CHE,CH,CHE,CHE,Switzerland,CHE,0,Switzerland,n,Europe,4300
+GB-EAW,GBR-EAW,GB,GBR,GBRTENW,England and Wales,EAW,1,"United Kingdom, England and Wales",n,Europe,4310
+GB-SCT,GBR-SCT,GB,GBR,GBR_SCO,Scotland,SCT,1,"United Kingdom, Scotland",n,Europe,4330
+GB-NIR,GBR-NIR,GB,GBR,GBR_NIR,Northern Ireland,NIR,1,"United Kingdom, Northern Ireland",n,Europe,4320
+US,USA,US,USA,USA,USA,USA,0,United States of America,n,North America,2450
